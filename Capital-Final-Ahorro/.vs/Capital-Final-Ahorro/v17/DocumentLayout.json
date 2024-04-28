@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CHRIS\\Desktop\\windows form 2\\Capital-Final-Ahorro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FB264F-3201-4899-A9DC-9C152497CB02}|Capital-Final-Ahorro\\Capital-Final-Ahorro.csproj|C:\\Users\\CHRIS\\Desktop\\windows form 2\\Capital-Final-Ahorro\\capital-final-ahorro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6FB264F-3201-4899-A9DC-9C152497CB02}|Capital-Final-Ahorro\\Capital-Final-Ahorro.csproj|solutionrelative:capital-final-ahorro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FB264F-3201-4899-A9DC-9C152497CB02}|Capital-Final-Ahorro\\Capital-Final-Ahorro.csproj|c:\\users\\chris\\desktop\\windows form 2\\capital-final-ahorro\\capital-final-ahorro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FB264F-3201-4899-A9DC-9C152497CB02}|Capital-Final-Ahorro\\Capital-Final-Ahorro.csproj|solutionrelative:capital-final-ahorro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\CHRIS\\Desktop\\windows form 2\\Capital-Final-Ahorro\\Capital-Final-Ahorro\\Form1.cs",
+              "RelativeDocumentMoniker": "Capital-Final-Ahorro\\Form1.cs",
+              "ToolTip": "C:\\Users\\CHRIS\\Desktop\\windows form 2\\Capital-Final-Ahorro\\Capital-Final-Ahorro\\Form1.cs",
+              "RelativeToolTip": "Capital-Final-Ahorro\\Form1.cs",
+              "ViewState": "AQIAADIAAACAAQAAAAAlwEQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T17:19:33.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\CHRIS\\Desktop\\windows form 2\\Capital-Final-Ahorro\\Capital-Final-Ahorro\\Form1.cs",
+              "RelativeDocumentMoniker": "Capital-Final-Ahorro\\Form1.cs",
+              "ToolTip": "C:\\Users\\CHRIS\\Desktop\\windows form 2\\Capital-Final-Ahorro\\Capital-Final-Ahorro\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capital-Final-Ahorro\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T17:19:20.066Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\CHRIS\Desktop\windows form 2\ClaculadoraCuotas\ClaculadoraCuotas\bin\Debug\ClaculadoraCuotas.exe.config
+C:\Users\CHRIS\Desktop\windows form 2\ClaculadoraCuotas\ClaculadoraCuotas\bin\Debug\ClaculadoraCuotas.exe
+C:\Users\CHRIS\Desktop\windows form 2\ClaculadoraCuotas\ClaculadoraCuotas\bin\Debug\ClaculadoraCuotas.pdb
+C:\Users\CHRIS\Desktop\windows form 2\ClaculadoraCuotas\ClaculadoraCuotas\obj\Debug\ClaculadoraCuotas.csproj.AssemblyReference.cache
+C:\Users\CHRIS\Desktop\windows form 2\ClaculadoraCuotas\ClaculadoraCuotas\obj\Debug\ClaculadoraCuotas.Form1.resources
+C:\Users\CHRIS\Desktop\windows form 2\ClaculadoraCuotas\ClaculadoraCuotas\obj\Debug\ClaculadoraCuotas.Properties.Resources.resources
+C:\Users\CHRIS\Desktop\windows form 2\ClaculadoraCuotas\ClaculadoraCuotas\obj\Debug\ClaculadoraCuotas.csproj.GenerateResource.cache
+C:\Users\CHRIS\Desktop\windows form 2\ClaculadoraCuotas\ClaculadoraCuotas\obj\Debug\ClaculadoraCuotas.csproj.CoreCompileInputs.cache
+C:\Users\CHRIS\Desktop\windows form 2\ClaculadoraCuotas\ClaculadoraCuotas\obj\Debug\ClaculadoraCuotas.exe
+C:\Users\CHRIS\Desktop\windows form 2\ClaculadoraCuotas\ClaculadoraCuotas\obj\Debug\ClaculadoraCuotas.pdb

@@ -1,0 +1,10 @@
+C:\Users\CHRIS\Desktop\windows form 2\Capital-Final-Ahorro\Capital-Final-Ahorro\obj\Debug\Capital-Final-Ahorro.csproj.AssemblyReference.cache
+C:\Users\CHRIS\Desktop\windows form 2\Capital-Final-Ahorro\Capital-Final-Ahorro\obj\Debug\Capital_Final_Ahorro.Form1.resources
+C:\Users\CHRIS\Desktop\windows form 2\Capital-Final-Ahorro\Capital-Final-Ahorro\obj\Debug\Capital_Final_Ahorro.Properties.Resources.resources
+C:\Users\CHRIS\Desktop\windows form 2\Capital-Final-Ahorro\Capital-Final-Ahorro\obj\Debug\Capital-Final-Ahorro.csproj.GenerateResource.cache
+C:\Users\CHRIS\Desktop\windows form 2\Capital-Final-Ahorro\Capital-Final-Ahorro\obj\Debug\Capital-Final-Ahorro.csproj.CoreCompileInputs.cache
+C:\Users\CHRIS\Desktop\windows form 2\Capital-Final-Ahorro\Capital-Final-Ahorro\bin\Debug\Capital-Final-Ahorro.exe.config
+C:\Users\CHRIS\Desktop\windows form 2\Capital-Final-Ahorro\Capital-Final-Ahorro\bin\Debug\Capital-Final-Ahorro.exe
+C:\Users\CHRIS\Desktop\windows form 2\Capital-Final-Ahorro\Capital-Final-Ahorro\bin\Debug\Capital-Final-Ahorro.pdb
+C:\Users\CHRIS\Desktop\windows form 2\Capital-Final-Ahorro\Capital-Final-Ahorro\obj\Debug\Capital-Final-Ahorro.exe
+C:\Users\CHRIS\Desktop\windows form 2\Capital-Final-Ahorro\Capital-Final-Ahorro\obj\Debug\Capital-Final-Ahorro.pdb
